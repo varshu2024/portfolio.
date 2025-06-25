@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:calcom/ics
+METHOD:REQUEST
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:nJDyGtsWzi67eC8xYCZKYz@Cal.com
+SUMMARY:Front End - Internship Interview  between Team MindMach and uppada 
+	Varshini
+DTSTAMP:20250621T144100Z
+DTSTART:20250625T053000Z
+DTEND:20250625T055000Z
+DESCRIPTION:What:\nFront End - Internship Interview  between Team MindMach 
+	and uppada Varshini\n\nInvitee Time Zone:\nAsia/Calcutta\n\nWho:\nTeam Min
+	dMach - Organizer\ncontact@mindmach.co\nuppada Varshini\nvarshuppada@gmail
+	.com\n\nWhere:\nhttps://meet.google.com/jnp-hjha-qcm\n\nAdditional notes:\
+	nInterview of frontend developer\n\nNeed to reschedule or cancel? https://
+	cal.com/booking/nJDyGtsWzi67eC8xYCZKYz?changes=true
+LOCATION:https://meet.google.com/jnp-hjha-qcm
+STATUS:CONFIRMED
+ORGANIZER;CN=Team MindMach:mailto:contact@mindmach.co
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=uppada Varshin
+	i:mailto:varshuppada@gmail.com
+END:VEVENT
+END:VCALENDAR
