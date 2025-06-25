@@ -1,6 +1,3 @@
-Here is a **perfect README template** for your **developer portfolio** project, especially tailored for someone like you—a Python & Web Developer:
-
----
 
 # 💼 Varshini's Developer Portfolio
 
